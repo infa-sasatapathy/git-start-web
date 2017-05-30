@@ -1,4 +1,4 @@
-# Created and Maintain by Er.Saumik
+# Created and Maintained by Er.Saumik
 
 This repository is for showing how Git and GitHub work
 
