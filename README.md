@@ -1,7 +1,7 @@
-# Starter Web Repo
+# Created and Maintained by Er.Saumik
 
 This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Planty of source codes and lots of texts to master in git.
